@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "cli",
+    "rust-iost/chain",
+    "rust-iost/iost-derive",
+    "rust-iost/keys",
+    "rust-iost/rpc",
+]
